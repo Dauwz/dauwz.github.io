@@ -201,8 +201,9 @@ border: 5px solid black;}
   position: initial;
   max-width:1150px;
   width: 100%;}
-.champimg {
-	position: relative;
+  
+.champimg {	
+	position: static;
 	float: left;
 	margin-top: 0px;
 	width: 35%;
@@ -210,13 +211,17 @@ border: 5px solid black;}
 	background-color: #B9D7D9;
 	margin-bottom: 10px;
 	border: 5px solid black;}
+	
 .champ {
-color: black;}
+color: black;
+position: static;}
+
 .champdetails {
 Margin-top: 20px;
 margin-left: 37%;}
-.champrimg {
+
+.champrimg{
 float: right;
 border: 5px solid black;
-margin-top: 20px;
+margin-top: 10px;
 height: 170px;}
