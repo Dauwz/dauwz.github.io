@@ -101,18 +101,21 @@ nav ul li:last-child a {
 	margin-bottom: 10px;
 }
 
+.contacts {
+	height: 40px;
+	float:right;
+	margin-right: 5px;
+	padding-top: 10px;}
+
+#SkypeButton_Call_mantuxas132_1 {
+	float: right;
+	height: 20px;
+	margin-right: -15px;
+	padding-top: -35px;}
+
 #name {
 	float:left;
 	margin-left: 5px;
-	padding-top: 5px;
-	font-size: 30px;
-	font-family: Impact;
-	color: #ffffff;
-}
-
-#email{
-	float:right;
-	margin-right: 5px;
 	padding-top: 5px;
 	font-size: 30px;
 	font-family: Impact;
