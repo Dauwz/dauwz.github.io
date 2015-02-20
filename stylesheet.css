@@ -228,3 +228,9 @@ float: right;
 border: 5px solid black;
 margin-top: 10px;
 height: 170px;}
+
+h2 {
+font-family: Verdana;
+margin-top: 10px;
+color: white;
+font-size: 40px;}
